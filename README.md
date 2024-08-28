@@ -41,6 +41,8 @@ docker compose up
 
 After a successful build, the application will be accessible at http://localhost:3000.
 
+Run migrations when prompted.
+
 ## Resources
 
 Take a look at the following for more information:
