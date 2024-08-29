@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-Rub on Rails and Postgres Example
+Ruby on Rails and Postgres Example
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@ Rub on Rails and Postgres Example
 # Full stack Ruby on Rails and Postgres application (employee management)
 
 <p>
-This is the code to accompany the tutorial available at our <a href="https://docs.withcoherence.com/coherence-templates/full-stack-template/?tabs=rubyonrails">Framework Guide (Ruby on Rails)</a> page.
+This is the code to accompany the tutorial available at our <a href="https://docs.withcoherence.com/coherence-templates/full-stack-template/?tabs=ruby-on-rails">Framework Guide (Ruby on Rails)</a> page.
 </p>
 
 You can use it as a starting point for any full stack Rails application. Read the guide to see how to deploy it to a production environment in your own cloud, or see the instructions below to run a development version of it locally.
